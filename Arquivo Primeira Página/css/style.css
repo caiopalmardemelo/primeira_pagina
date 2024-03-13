@@ -1,0 +1,45 @@
+*{
+    margin: 0%;
+}
+@font-face {
+    font-family: Sans;
+    src: url(ComicSans.TTF);
+}
+
+body {
+    font-family: Sans;
+    background-image: url(fundo.gif);
+}
+header {
+    padding-left: 20px;
+    background: linear-gradient(red,green);
+}
+main {
+    padding-left: 20px;
+}
+footer {
+    padding-left: 20px;
+    background: linear-gradient(yellow,purple);
+}
+
+.logo {
+    width: 400px;
+}
+.eminem {
+    width: 400px;
+}
+.herobrine {
+    width: 300px;
+}
+.shrek {
+    width: 300px;
+}
+.roda {
+    width: 200px;
+}
+.pé {
+    width: 200px; height: 200px;
+}
+.freddy {
+    width: 400px;
+}
